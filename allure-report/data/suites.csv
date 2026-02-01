@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","0","Dummy Passing Test","tests","2026-01-31","passed","2026-01-31","","test_google","",""
+"","5","Dummy Failing Test","tests","2026-01-31","failed","2026-01-31","","test_google","",""
+"","2534","Verify Google title","tests","2026-01-31","passed","2026-01-31","","test_google","",""
+"","0","Dummy Skipped Test","tests","2026-01-31","skipped","2026-01-31","","test_google","",""
